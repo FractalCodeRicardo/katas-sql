@@ -13,7 +13,7 @@ for ($i = 1; $i -le 20; $i++) {
     Clear-Content -Path $tempFile -Force
 
     # Execute the SQL script and append the output to the temporary file
-    & sqlite3 $database < $script | Out-File -Append -FilePath $tempFile
+    & sqlite3 $database ".read $script" | Out-File -Append -FilePath $tempFile
 
     # Compare the temporary file with the expected output
     $diff = Compare-Object -ReferenceObject (Get-Content $output) -DifferenceObject (Get-Content $tempFile)
