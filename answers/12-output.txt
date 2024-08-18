@@ -1,0 +1,3 @@
+Books|26
+Clothing|9
+Electronics|11

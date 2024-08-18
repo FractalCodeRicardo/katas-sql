@@ -1,0 +1,4 @@
+101|Laptop
+102|Smartphone
+105|Headphones
+109|Tablet

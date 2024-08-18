@@ -1,0 +1,10 @@
+102|Smartphone|2499.95
+101|Laptop|1999.98
+109|Tablet|499.99
+106|Science Textbook|489.93
+105|Headphones|299.97
+110|History Novel|219.94
+107|Jacket|199.98
+103|Fiction Novel|199.9
+108|Jeans|159.96
+104|T-Shirt|29.97

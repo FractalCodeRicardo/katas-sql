@@ -1,0 +1,3 @@
+Electronics|5299.89
+Books|909.77
+Clothing|389.91

@@ -1,0 +1,12 @@
+101|Electronics
+102|Electronics
+103|Books
+104|Clothing
+105|Electronics
+106|Books
+107|Clothing
+108|Clothing
+109|Electronics
+110|Books
+111|Books
+112|Books

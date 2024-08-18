@@ -1,0 +1,4 @@
+Beverages|0
+Books|5
+Clothing|3
+Electronics|4
